@@ -1,0 +1,697 @@
+{
+  "company_info": {
+    "company_name": "Jera Plus",
+    "country": "Montenegro",
+    "city": "Podgorica",
+    "address": "Podgorica, Montenegro",
+    "phone": "+382 67 952403",
+    "email": "office@jeraplus.com",
+    "linkedin": "https://www.linkedin.com/company/jera-plus/",
+    "founded_year": 2018,
+    "tagline_en": "Your trusted partner in international petroleum trading, commodities and logistics",
+    "tagline_ru": "Ваш надежный партнер в международном трейдинге нефтепродуктов, сырья и логистике",
+    "youtube_id": "_DuaZLvPNHs"
+  },
+  "hero_slides": [
+    {
+      "id": 1,
+      "title_en": "We are the partner who can offer the best price and the best delivery conditions!",
+      "title_ru": "Партнер, который предлагает лучшие цены и оптимальные условия доставки!",
+      "subtitle_en": "We are the team that will provide you the best logistics across Europe and worldwide.",
+      "subtitle_ru": "Команда профессионалов, обеспечивающая первоклассную логистику в Европе и по всему миру.",
+      "image_url": "/images/bn_2.jpg"
+    },
+    {
+      "id": 2,
+      "title_en": "Decades of experience in Petroleum products and Gas supply",
+      "title_ru": "Многолетний опыт поставок нефтепродуктов, СУГ и промышленного сырья",
+      "subtitle_en": "Fuel, Liquefied gas, Base oils and Chemical raw materials supplied directly to leading industrial and agricultural enterprises.",
+      "subtitle_ru": "Топливо, сжиженный газ, базовые масла и сырье для промышленных и аграрных предприятий.",
+      "image_url": "/images/bn_1.jpg"
+    },
+    {
+      "id": 3,
+      "title_en": "Jera Plus helps you produce and sell products with maximum profitability",
+      "title_ru": "Jera Plus помогает производить и реализовывать продукцию с максимальной выгодой",
+      "subtitle_en": "High-quality products and flawless fulfillment of all contractual obligations are the foundation of our long-term cooperation.",
+      "subtitle_ru": "Высокое качество продукции и строгое исполнение всех обязательств — основа долгосрочного партнерства.",
+      "image_url": "/images/bn_3.jpg"
+    }
+  ],
+  "advantages": [
+    {
+      "icon": "Award",
+      "title_en": "High-Quality Products",
+      "title_ru": "Высокое качество продукции",
+      "desc_en": "Sourced from leading refineries and certified global manufacturers with guaranteed parameters.",
+      "desc_ru": "Поставки от ведущих нефтеперерабатывающих заводов и проверенных производителей с гарантией качества."
+    },
+    {
+      "icon": "Ship",
+      "title_en": "Global Multimodal Logistics",
+      "title_ru": "Международная логистика",
+      "desc_en": "Experienced transport managers organizing sea tankers, rail tanks, and specialized fuel trucks.",
+      "desc_ru": "Опытные менеджеры, организующие морские танкеры, ж/д цистерны и парк специализированных бензовозов."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title_en": "Proven Experience",
+      "title_ru": "Многолетний опыт",
+      "desc_en": "Decades of combined practical expertise in energy trading, terminal storage, and distribution.",
+      "desc_ru": "Десятилетия практического опыта в трейдинге энергоносителей, терминальном хранении и сбыте."
+    },
+    {
+      "icon": "TrendingUp",
+      "title_en": "Favorable Prices & Financing",
+      "title_ru": "Выгодные цены и факторинг",
+      "desc_en": "Competitive quotes, flexible payment schedules, trade financing, and individualized terms.",
+      "desc_ru": "Конкурентные котировки, гибкие графики оплаты, торговое финансирование и индивидуальные условия."
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "slug": "lpg",
+      "title_en": "LPG (Liquefied Petroleum Gas)",
+      "title_ru": "Сжиженный углеводородный газ (СУГ / LPG)",
+      "category_en": "Petroleum Products",
+      "category_ru": "Нефтепродукты",
+      "excerpt_en": "Propane, Butane, and Commercial Propane-Butane mix for heating, auto-gas (autogas), and petrochemical feedstocks.",
+      "excerpt_ru": "Пропан, Бутан и смесь пропана-бутана техническая (СПБТ) для отопления, автогаза и химической переработки.",
+      "description_en": "Jera Plus supplies high-grade Liquefied Petroleum Gas (LPG) meeting European EN 589 and international standards. We handle wholesale supplies by specialized road gas carriers and rail tank cars from major refineries to wholesale distributors, industrial users, and retail gas station chains.",
+      "description_ru": "Компания Jera Plus осуществляет оптовые поставки сжиженного углеводородного газа (СУГ), соответствующего европейскому стандарту EN 589. Доставка осуществляется специализированными газовозами и железнодорожными цистернами от крупнейших НПЗ для оптовых баз, промышленных предприятий и сетей АЗС.",
+      "specs": [
+        {
+          "name_en": "Propane content",
+          "name_ru": "Содержание пропана",
+          "value": "≥ 50% - 98%"
+        },
+        {
+          "name_en": "Butane content",
+          "name_ru": "Содержание бутана",
+          "value": "≤ 50%"
+        },
+        {
+          "name_en": "Vapor pressure at 40°C",
+          "name_ru": "Давление паров при 40°C",
+          "value": "≤ 1.55 MPa"
+        },
+        {
+          "name_en": "Sulfur content",
+          "name_ru": "Содержание серы",
+          "value": "< 30 mg/kg"
+        },
+        {
+          "name_en": "Delivery modes",
+          "name_ru": "Способы доставки",
+          "value": "Gas trucks, Rail tanks, Sea vessels"
+        }
+      ],
+      "image_url": "/images/bn_1.jpg",
+      "is_active": true,
+      "order_num": 1
+    },
+    {
+      "id": 3,
+      "slug": "diesel-and-gasoline",
+      "title_en": "Diesel and Gasoline",
+      "title_ru": "Дизельное топливо и Бензин",
+      "category_en": "Petroleum Products",
+      "category_ru": "Нефтепродукты",
+      "excerpt_en": "Ultra-low sulfur Diesel fuel (10 ppm, Euro 5/6) and high-octane Gasoline (RON 95, RON 98) for transportation and industry.",
+      "excerpt_ru": "Дизельное топливо с ультранизким содержанием серы (10 ppm, Евро 5/6) и высокооктановые бензины АИ-95, АИ-98.",
+      "description_en": "We provide regular bulk supplies of automotive and industrial diesel fuel ULSD 10 ppm (EN 590) and premium motor gasoline (EN 228). We ensure prompt logistics to Eastern and Central Europe, the Balkans, and the Mediterranean basin.",
+      "description_ru": "Мы обеспечиваем регулярные оптовые поставки дизельного топлива стандарта EN 590 (10 ppm) и высококачественных автомобильных бензинов стандарта EN 228. Гарантируем бесперебойную логистику в страны Центральной и Восточной Европы, на Балканы и в бассейн Средиземного моря.",
+      "specs": [
+        {
+          "name_en": "Standard",
+          "name_ru": "Стандарт",
+          "value": "EN 590 / EN 228"
+        },
+        {
+          "name_en": "Sulfur Content",
+          "name_ru": "Содержание серы",
+          "value": "≤ 10 ppm"
+        },
+        {
+          "name_en": "Cetane Index (Diesel)",
+          "name_ru": "Цетановый индекс",
+          "value": "≥ 51"
+        },
+        {
+          "name_en": "Octane Number (Gasoline)",
+          "name_ru": "Октановое число",
+          "value": "RON 95 / RON 98"
+        },
+        {
+          "name_en": "Density at 15°C",
+          "name_ru": "Плотность при 15°C",
+          "value": "820 - 845 kg/m³"
+        }
+      ],
+      "image_url": "/images/bn_2.jpg",
+      "is_active": true,
+      "order_num": 2
+    },
+    {
+      "id": 4,
+      "slug": "oils",
+      "title_en": "Base Oils and Lubricants",
+      "title_ru": "Базовые масла и смазочные материалы",
+      "category_en": "Petroleum Products",
+      "category_ru": "Нефтепродукты",
+      "excerpt_en": "Group I and Group II base oils (SN-150, SN-500, BS-150) for automotive, industrial, and hydraulic lubricant manufacturing.",
+      "excerpt_ru": "Базовые масла I и II групп (SN-150, SN-500, BS-150) для производства моторных, трансмиссионных и гидравлических масел.",
+      "description_en": "Jera Plus trades in high-purity virgin base oils SN 150, SN 500, and bright stock. Our products serve as essential raw materials for blenders and lubricant manufacturers across Europe and worldwide.",
+      "description_ru": "Jera Plus поставляет высокоочищенные базовые масла марок SN 150, SN 500 и bright stock. Наша продукция является ключевым сырьем для заводов по производству моторных, гидравлических и индустриальных масел.",
+      "specs": [
+        {
+          "name_en": "Grades",
+          "name_ru": "Марки",
+          "value": "SN-150, SN-500, 150N, 500N"
+        },
+        {
+          "name_en": "Kinematic Viscosity at 100°C",
+          "name_ru": "Вязкость при 100°C",
+          "value": "5.0 - 11.0 mm²/s"
+        },
+        {
+          "name_en": "Viscosity Index",
+          "name_ru": "Индекс вязкости",
+          "value": "≥ 95"
+        },
+        {
+          "name_en": "Flash Point",
+          "name_ru": "Температура вспышки",
+          "value": "≥ 210°C - 240°C"
+        },
+        {
+          "name_en": "Pour Point",
+          "name_ru": "Температура застывания",
+          "value": "≤ -12°C"
+        }
+      ],
+      "image_url": "/images/bn_3.jpg",
+      "is_active": true,
+      "order_num": 3
+    },
+    {
+      "id": 5,
+      "slug": "petrochemical-products",
+      "title_en": "Petrochemical Products",
+      "title_ru": "Нефтехимическая продукция",
+      "category_en": "Petrochemicals",
+      "category_ru": "Нефтехимия",
+      "excerpt_en": "Essential aromatic hydrocarbons, alcohols, glycols, and organic solvents for chemical processing.",
+      "excerpt_ru": "Ароматические углеводороды, спирты, гликоли и органические растворители для химической промышленности.",
+      "description_en": "We source and distribute raw petrochemical components including Benzene, Toluene, Xylenes, Methanol, and Ethylene Glycols for paint, polymer, resin, and pharmaceutical production facilities.",
+      "description_ru": "Мы поставляем базовые нефтехимические компоненты, включая бензол, толуол, ксилолы, метанол и моноэтиленгликоль для предприятий лакокрасочной, полимерной и синтетической промышленности.",
+      "specs": [
+        {
+          "name_en": "Product range",
+          "name_ru": "Ассортимент",
+          "value": "Benzene, Toluene, Orthoxylene, MEG, DEG"
+        },
+        {
+          "name_en": "Purity",
+          "name_ru": "Чистота",
+          "value": "≥ 99.8%"
+        },
+        {
+          "name_en": "Packaging",
+          "name_ru": "Фасовка/Транспорт",
+          "value": "Tank trucks, ISO containers, Rail tank cars"
+        }
+      ],
+      "image_url": "/images/bn_1.jpg",
+      "is_active": true,
+      "order_num": 4
+    },
+    {
+      "id": 6,
+      "slug": "plastics",
+      "title_en": "Plastics & Polymers",
+      "title_ru": "Полимеры и пластики",
+      "category_en": "Polymers",
+      "category_ru": "Полимеры",
+      "excerpt_en": "Virgin polymer granules: High-Density Polyethylene (HDPE), Low-Density Polyethylene (LDPE), Polypropylene (PP), and PVC.",
+      "excerpt_ru": "Первичные полимерные гранулы: ПНД (HDPE), ПВД (LDPE), полипропилен (PP) и ПВХ смолы.",
+      "description_en": "Providing dependable supplies of primary thermoplastic resins for extrusion, blow molding, injection molding, and film applications to plastic converting manufacturers.",
+      "description_ru": "Надежные поставки первичных полимерных гранул для экструзии, литья под давлением, выдувного формования и производства упаковочных пленок.",
+      "specs": [
+        {
+          "name_en": "Polymers",
+          "name_ru": "Полимеры",
+          "value": "HDPE, LDPE, LLDPE, PP Homopolymer, PVC"
+        },
+        {
+          "name_en": "Form",
+          "name_ru": "Форма",
+          "value": "Granules / Pellets (25 kg bags, Big Bags)"
+        },
+        {
+          "name_en": "Melt Flow Index",
+          "name_ru": "ПТР (MFI)",
+          "value": "By specification according to application"
+        }
+      ],
+      "image_url": "/images/bn_2.jpg",
+      "is_active": true,
+      "order_num": 5
+    },
+    {
+      "id": 8,
+      "slug": "flax-seed",
+      "title_en": "Flax Seed (Linseed)",
+      "title_ru": "Семена льна (Масличный лен)",
+      "category_en": "Agricultural Commodities",
+      "category_ru": "Агропродукция",
+      "excerpt_en": "Golden and brown flax seeds with rich Omega-3 fatty acid content for oil pressing, human consumption, and industrial uses.",
+      "excerpt_ru": "Золотистый и коричневый лен с высоким содержанием Омега-3 для маслодобычи, пищевой промышленности и переработки.",
+      "description_en": "Jera Plus executes direct contract supplies of natural agricultural flax seeds grown on certified farms. We deliver high-purity cleaned seeds meeting strict EU biological and phytosanitary requirements.",
+      "description_ru": "Jera Plus осуществляет прямые контрактные поставки натуральных семян льна. Мы гарантируем высокую чистоту очистки семян и строгое соответствие фитосанитарным нормам Европейского Союза.",
+      "specs": [
+        {
+          "name_en": "Varieties",
+          "name_ru": "Сорта",
+          "value": "Brown Flaxseed, Golden Flaxseed"
+        },
+        {
+          "name_en": "Purity",
+          "name_ru": "Чистота",
+          "value": "≥ 98.0% - 99.9%"
+        },
+        {
+          "name_en": "Oil content",
+          "name_ru": "Масличность",
+          "value": "≥ 40% - 42%"
+        },
+        {
+          "name_en": "Moisture",
+          "name_ru": "Влажность",
+          "value": "≤ 8.0%"
+        },
+        {
+          "name_en": "Packaging",
+          "name_ru": "Фасовка",
+          "value": "Bulk, 25 kg bags, 1000 kg Big-Bags"
+        }
+      ],
+      "image_url": "/images/news/b1cd2757743cdd0f1b88f16d35458716.jpeg",
+      "is_active": true,
+      "order_num": 6
+    },
+    {
+      "id": 9,
+      "slug": "minerals",
+      "title_en": "Mineral Concentrates (Rutile & Ilmenite)",
+      "title_ru": "Минеральные концентраты (Рутил и Ильменит)",
+      "category_en": "Mineral Raw Materials",
+      "category_ru": "Минеральное сырье",
+      "excerpt_en": "High-purity Rutile concentrate (TiO₂ min 94-96%) and Ilmenite concentrate (TiO₂ min 63%) for titanium pigment and metallurgy.",
+      "excerpt_ru": "Высокочистый рутиловый концентрат (TiO₂ мин. 94-96%) и ильменитовый концентрат (TiO₂ мин. 63%) для пигментов и металлургии.",
+      "description_en": "Direct supply of titanium mineral sands. Rutile is widely applied in welding electrode manufacturing, titanium sponge, and titanium dioxide pigments. Ilmenite serves synthetic rutile production and metallurgy.",
+      "description_ru": "Прямые поставки титаносодержащих песков. Рутиловый концентрат применяется в производстве сварочных электродов, титановой губки и диоксида титана. Ильменит используется в производстве синтетического рутила и металлургии.",
+      "specs": [
+        {
+          "name_en": "Rutile TiO₂ content",
+          "name_ru": "Содержание TiO₂ (Рутил)",
+          "value": "min 94.0% - 96.0%"
+        },
+        {
+          "name_en": "Ilmenite TiO₂ content",
+          "name_ru": "Содержание TiO₂ (Ильменит)",
+          "value": "min 63.0%"
+        },
+        {
+          "name_en": "Bulk density",
+          "name_ru": "Насыпная плотность",
+          "value": "2130 - 2400 kg/m³"
+        },
+        {
+          "name_en": "Moisture",
+          "name_ru": "Влажность",
+          "value": "max 0.5%"
+        },
+        {
+          "name_en": "Delivery",
+          "name_ru": "Поставка",
+          "value": "Bulk in rail/vessels, 1-ton Big Bags"
+        }
+      ],
+      "image_url": "/images/news/8ef95b1af3ed474dd43933d166cf70ec.jpeg",
+      "is_active": true,
+      "order_num": 7
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "slug": "transport-customs-brokerage",
+      "title_en": "Transport & Customs Brokerage",
+      "title_ru": "Транспорт и таможенное брокерское обслуживание",
+      "excerpt_en": "End-to-end multimodal logistics and prompt customs clearance across the EU, Balkans, and Eastern Europe.",
+      "excerpt_ru": "Комплексная мультимодальная логистика и оперативное таможенное оформление в ЕС, на Балканах и в Восточной Европе.",
+      "description_en": "There are no borders for us: we organize the delivery of petroleum and commodity products anywhere in the world, sourcing from the production and refining facilities nearest to your region. Every cross-border shipment requires precision customs handling. We manage dangerous-goods (ADR) transport requirements, quality certificates, and clearance procedures that vary from one jurisdiction to the next.",
+      "description_ru": "Для нас нет границ: мы организуем доставку нефтепродуктов и сырья в любую точку мира от ближайших нефтеперерабатывающих заводов. Мы берем на себя оформление опасных грузов (ADR), сертификатов качества и таможенных процедур «под ключ».",
+      "icon": "Truck",
+      "stages": [
+        {
+          "title_en": "Route & Mode Planning",
+          "title_ru": "Разработка логистического маршрута"
+        },
+        {
+          "title_en": "ADR & Tank Fleet Dispatch",
+          "title_ru": "Предоставление сертифицированного транспорта"
+        },
+        {
+          "title_en": "Customs Declaration & Transit",
+          "title_ru": "Оформление таможенных деклараций и транзита"
+        },
+        {
+          "title_en": "Final Terminal Delivery",
+          "title_ru": "Контроль доставки на терминал заказчика"
+        }
+      ],
+      "image_url": "/images/bn_2.jpg",
+      "is_active": true,
+      "order_num": 1
+    },
+    {
+      "id": 2,
+      "slug": "international-consulting",
+      "title_en": "International Trade Consulting",
+      "title_ru": "Международный торговый консалтинг",
+      "excerpt_en": "Strategic market entry, deal structuring, compliance, and partnership development across Europe.",
+      "excerpt_ru": "Стратегический выход на новые рынки, структурирование сделок, комплаенс и развитие партнерств в Европе.",
+      "description_en": "Leveraging deep industry experience, we assist business owners in structuring international transactions, selecting trusted suppliers, and achieving seamless integration into European commodity flows.",
+      "description_ru": "Опираясь на многолетний практический опыт, мы помогаем собственникам бизнеса выстраивать международные контракты, находить надежных поставщиков и безопасно выходить на европейские рынки.",
+      "icon": "Compass",
+      "stages": [
+        {
+          "title_en": "Market Analysis",
+          "title_ru": "Анализ рынка и контрагентов"
+        },
+        {
+          "title_en": "Contractual Structuring",
+          "title_ru": "Юридическое структурирование сделок"
+        },
+        {
+          "title_en": "Regulatory Compliance",
+          "title_ru": "Комплаенс и налоговое соответствие"
+        }
+      ],
+      "image_url": "/images/bn_1.jpg",
+      "is_active": true,
+      "order_num": 2
+    },
+    {
+      "id": 4,
+      "slug": "montenegro-business-representation",
+      "title_en": "Business Representation in Montenegro",
+      "title_ru": "Представительство бизнес-интересов в Черногории",
+      "excerpt_en": "Comprehensive representative and corporate consulting services based directly in Podgorica.",
+      "excerpt_ru": "Комплексное представительство интересов зарубежных компаний и корпоративный консалтинг в Подгорице.",
+      "description_en": "We represent client interests before local authorities, financial institutions, and commercial partners in Montenegro and the Adriatic region, expediting corporate establishment and contract negotiations.",
+      "description_ru": "Мы представляем интересы наших партнеров в государственных органах, банках и торговых палатах Черногории и Адриатического региона, содействуя успешному развитию регионального бизнеса.",
+      "icon": "Building2",
+      "stages": [
+        {
+          "title_en": "Legal & Local Presence",
+          "title_ru": "Организация корпоративного присутствия"
+        },
+        {
+          "title_en": "Government & Port Liaison",
+          "title_ru": "Взаимодействие с портовой инфраструктурой и ведомствами"
+        },
+        {
+          "title_en": "Business Negotiations",
+          "title_ru": "Сопровождение коммерческих переговоров"
+        }
+      ],
+      "image_url": "/images/bn_3.jpg",
+      "is_active": true,
+      "order_num": 3
+    },
+    {
+      "id": 5,
+      "slug": "trade-financing-factoring",
+      "title_en": "Trade Financing & Factoring",
+      "title_ru": "Торговое финансирование и факторинг",
+      "excerpt_en": "Letters of credit, supply chain financing, and factoring solutions for large-scale energy contracts.",
+      "excerpt_ru": "Аккредитивные формы расчетов, финансирование цепочек поставок и факторинг для крупных энергетических контрактов.",
+      "description_en": "Large commodity deals require tailored liquidity and risk mitigation. We offer structured factoring, documentary letters of credit, and deferred payment mechanisms in cooperation with top European banking partners.",
+      "description_ru": "Крупные товарные контракты требуют надежной ликвидности и минимизации рисков. Мы предлагаем структурированный факторинг, документарные аккредитивы и гибкие механизмы отсрочки платежей.",
+      "icon": "Banknote",
+      "stages": [
+        {
+          "title_en": "Credit Assessment",
+          "title_ru": "Оценка параметров сделки и кредитных рисков"
+        },
+        {
+          "title_en": "Financial Structuring",
+          "title_ru": "Подбор оптимального банковского инструмента"
+        },
+        {
+          "title_en": "Execution & Settlement",
+          "title_ru": "Сопровождение расчетов до закрытия сделки"
+        }
+      ],
+      "image_url": "/images/bn_2.jpg",
+      "is_active": true,
+      "order_num": 4
+    },
+    {
+      "id": 6,
+      "slug": "logistics-consulting",
+      "title_en": "Logistics Consulting for Oil Product Companies",
+      "title_ru": "Консалтинг в транспортной логистике нефтепродуктов",
+      "excerpt_en": "Process audits, route optimization, terminal handling efficiency, and cost reduction strategies.",
+      "excerpt_ru": "Аудит логистических процессов, оптимизация маршрутов, повышение эффективности перевалки и снижение затрат.",
+      "description_en": "Specialized consulting for oil trading and refining firms. Our specialists audit your current logistics chain, identify hidden cost drivers, propose fleet optimization models, and implement modern monitoring systems.",
+      "description_ru": "Специализированный консалтинг для трейдинговых и топливных компаний. Наши эксперты проводят детальный аудит вашей цепочки поставок, выявляют резервы экономии, оптимизируют флот и внедряют системы учета.",
+      "icon": "BarChart3",
+      "stages": [
+        {
+          "title_en": "Current Process Audit",
+          "title_ru": "Комплексный анализ текущих процессов"
+        },
+        {
+          "title_en": "Optimization Strategy",
+          "title_ru": "Разработка стратегии оптимизации маршрутов и флота"
+        },
+        {
+          "title_en": "Implementation & Support",
+          "title_ru": "Внедрение решений и контроль результата"
+        }
+      ],
+      "image_url": "/images/news/1827272c052016080b9d01b9f9621b13.jpeg",
+      "is_active": true,
+      "order_num": 5
+    }
+  ],
+  "news": [
+    {
+      "id": 11,
+      "slug": "jera-plus-at-argus-lpg-2024",
+      "title_en": "JERA PLUS at Argus LPG 2024: Strengthening Partnerships and Exploring New Opportunities",
+      "title_ru": "JERA PLUS на конференции Argus LPG 2024: укрепление партнерства и новые перспективы",
+      "excerpt_en": "JERA PLUS participated in the Argus LPG 2024 conference held in Istanbul, engaging in key discussions on global supply chains.",
+      "excerpt_ru": "JERA PLUS приняла участие в конференции Argus LPG 2024 в Стамбуле, проведя серию встреч с лидерами глобального рынка СУГ.",
+      "content_en": "JERA PLUS, with its extensive experience in liquefied petroleum gas (LPG), participated in the Argus LPG 2024 conference held in Istanbul on October 17-18. This prestigious global event brought together leading industry players to discuss key trends, challenges, and future opportunities in the LPG sector. During the event, JERA PLUS seized the chance to build new business connections with international partners, exchange insights with industry leaders, and engage in important discussions on logistics and supply challenges.",
+      "content_ru": "Компания JERA PLUS приняла участие в ключевой международной конференции Argus LPG 2024, состоявшейся 17-18 октября в Стамбуле. В рамках форума обсуждались тенденции ценообразования, логистические вызовы и перспективы диверсификации поставок сжиженного газа на европейские и азиатские рынки.",
+      "image_url": "/images/news/6261805183cc40193bdc944d2d97cae3.jpeg",
+      "published_at": "2024-10-20",
+      "is_published": true
+    },
+    {
+      "id": 10,
+      "slug": "lubricant-expo-2024-networking",
+      "title_en": "Our Company Explores Networking Opportunities at Lubricant Expo 2024",
+      "title_ru": "Jera Plus на международной выставке Lubricant Expo 2024 в Дюссельдорфе",
+      "excerpt_en": "Representatives of Jera Plus attended Lubricant Expo 2024 in Düsseldorf, expanding our supplier network for base oils.",
+      "excerpt_ru": "Делегация Jera Plus посетила крупнейшую отраслевую выставку смазочных материалов Lubricant Expo 2024 в Дюссельдорфе.",
+      "content_en": "From September 17 to 19, 2024, our company representatives attended Lubricant Expo 2024 in Düsseldorf, Germany. This premier European event brought together over 200 suppliers and key players from across the supply chain, providing a unique venue to explore the latest formulations in base oils and industrial lubricants.",
+      "content_ru": "С 17 по 19 сентября 2024 года представители компании посетили выставку Lubricant Expo 2024 в Дюссельдорфе. Проведены переговоры с ведущими производителями базовых масел групп I, II и III, что позволит расширить ассортимент поставок для наших клиентов.",
+      "image_url": "/images/news/57d329db24a8a152073386d26c29ebab.jpeg",
+      "published_at": "2024-09-22",
+      "is_published": true
+    },
+    {
+      "id": 9,
+      "slug": "six-successful-years-anniversary",
+      "title_en": "Jera Plus Expresses Gratitude to Clients and Partners for Six Successful Years in the Oil Products Market",
+      "title_ru": "Jera Plus отмечает 6-летие успешной работы на международном рынке нефтепродуктов",
+      "excerpt_en": "Celebrating our 6th anniversary since founding in August 2018. We thank our global clients and financial partners.",
+      "excerpt_ru": "В августе 2024 года компании Jera Plus исполнилось 6 лет. Благодарим наших клиентов и финансовых партнеров за доверие.",
+      "content_en": "Jera Plus proudly marks its sixth anniversary. Founded in August 2018 in Podgorica, the company has expanded its geographical reach across Europe and other continents, establishing strong partnerships with leading refiners, distributors, and trading houses.",
+      "content_ru": "Основанная в августе 2018 года в Подгорице, компания прошла путь от локального трейдера до надежного европейского поставщика энергоносителей и промышленного сырья. Мы благодарны каждому партнеру за совместные достижения.",
+      "image_url": "/images/news/3a8f49373e7e2a3c35485f133923449b.jpg",
+      "published_at": "2024-08-15",
+      "is_published": true
+    },
+    {
+      "id": 8,
+      "slug": "launches-logistics-consulting-service",
+      "title_en": "In 2024, Jera Plus Launches a Consulting Service in Transport Logistics for Oil Product Companies",
+      "title_ru": "Jera Plus запускает консалтинговое направление в транспортной логистике нефтепродуктов",
+      "excerpt_en": "A new dedicated consulting service designed to help energy companies optimize transit times, fleet utilization, and reduce expenses.",
+      "excerpt_ru": "Новый комплексный сервис, нацеленный на аудит и оптимизацию логистических маршрутов для топливных компаний.",
+      "content_en": "Leveraging extensive experience and deep industry knowledge, Jera Plus aims to help clients enhance the efficiency of their logistics operations and reduce costs. The service covers detailed process auditing, route restructuring, and compliance advisory.",
+      "content_ru": "Используя многолетний практический опыт в перевозках опасных грузов, Jera Plus открывает консалтинговую практику для помощи коллегам по отрасли в сокращении логистических издержек и безопасной доставке.",
+      "image_url": "/images/news/1827272c052016080b9d01b9f9621b13.jpeg",
+      "published_at": "2024-05-10",
+      "is_published": true
+    },
+    {
+      "id": 7,
+      "slug": "representative-office-in-eu",
+      "title_en": "Jera Plus opens a representative office in one of the EU countries",
+      "title_ru": "Jera Plus открывает представительство в странах Европейского Союза",
+      "excerpt_en": "Expanding our permanent commercial footprint in the European Union to facilitate quicker deal execution.",
+      "excerpt_ru": "Расширение коммерческого присутствия в ЕС для ускорения согласования контрактов и оперативной связи.",
+      "content_en": "Jera Plus announces the establishment of a dedicated commercial representative office within the EU. The presence of a permanent European office enables closer ties with local refiners, terminal operators, and banking partners.",
+      "content_ru": "Открытие постоянного представительства в ЕС позволяет оперативно координировать поставки, заключать прямые контракты с европейскими заводами и повышать скорость обработки запросов клиентов.",
+      "image_url": "/images/news/6522140fa5855b43f37ecbaedc4da7b6.jpeg",
+      "published_at": "2024-02-18",
+      "is_published": true
+    },
+    {
+      "id": 6,
+      "slug": "trading-rutile-and-ilmenite-concentrates",
+      "title_en": "Jera Plus started trading operations with Rutile and Ilmenite concentrates",
+      "title_ru": "Jera Plus начала торговые операции с рутиловым и ильменитовым концентратами",
+      "excerpt_en": "First successful bulk shipments of titanium mineral sands delivered to European and Asian buyers.",
+      "excerpt_ru": "Первые успешные партии титанового сырья отгружены потребителям в Европе и Азии.",
+      "content_en": "Our company has made the first shipments of rutile and ilmenite concentrates to major European trading partners for subsequent distribution to pigment and electrode manufacturing facilities in Asia and Europe.",
+      "content_ru": "Компания Jera Plus успешно осуществила первые поставки рутила и ильменита крупным европейским трейдерам для дальнейшей переработки на промышленных предприятиях.",
+      "image_url": "/images/news/8ef95b1af3ed474dd43933d166cf70ec.jpeg",
+      "published_at": "2023-11-04",
+      "is_published": true
+    },
+    {
+      "id": 5,
+      "slug": "increasing-volume-of-supplies",
+      "title_en": "Jera Plus continues to actively increase the volume of supplies of petroleum products",
+      "title_ru": "Jera Plus наращивает объемы международных поставок нефтепродуктов",
+      "excerpt_en": "Annual sales increase by over 50% year-on-year driven by expanding customer base in Central Europe.",
+      "excerpt_ru": "Рост годового товарооборота более чем на 50% благодаря расширению клиентской базы в Центральной Европе.",
+      "content_en": "The international trading company Jera Plus increased its turnover and wholesale volume by more than 50% compared to the previous year, securing long-term contracts for LPG and middle distillates.",
+      "content_ru": "По итогам года международная торговая компания Jera Plus зафиксировала рост продаж более чем на 50%, закрепив долгосрочные партнерские соглашения по поставкам СУГ и дизельного топлива.",
+      "image_url": "/images/news/d44fafb743a53e14c67cee284aa67345.jpeg",
+      "published_at": "2022-01-12",
+      "is_published": true
+    },
+    {
+      "id": 4,
+      "slug": "season-greetings-new-year",
+      "title_en": "Best wishes for the New Year! Merry Christmas!",
+      "title_ru": "Поздравляем с Новым Годом и Рождеством!",
+      "excerpt_en": "Warm holiday wishes to all our valued partners, suppliers, and logistics collaborators.",
+      "excerpt_ru": "Искренние поздравления с праздниками всем нашим дорогим клиентам, поставщикам и перевозчикам.",
+      "content_en": "The management and team of Jera Plus wish you a joyful, prosperous, and successful New Year. May the upcoming year bring stability, mutual growth, and new shared horizons in international business.",
+      "content_ru": "Команда Jera Plus поздравляет партнеров с Новым Годом. Желаем финансовой стабильности, надежных контрактов и покорения новых высот в наступающем году.",
+      "image_url": "/images/news/b4521b55d191ce7aeefabfd19cefb85f.jpeg",
+      "published_at": "2021-12-25",
+      "is_published": true
+    },
+    {
+      "id": 3,
+      "slug": "year-of-new-markets-2020",
+      "title_en": "2020 was a year of new markets for Jera Plus",
+      "title_ru": "2020 год стал для Jera Plus годом выхода на новые рынки",
+      "excerpt_en": "Overcoming global supply chain disruptions through resilient logistics and proactive partner communication.",
+      "excerpt_ru": "Преодоление глобальных логистических ограничений и освоение новых направлений сбыта сырья.",
+      "content_en": "Despite worldwide transport disruptions, Jera Plus successfully entered new European market segments and demonstrated continuous, profitable operations in full compliance with customer obligations.",
+      "content_ru": "Несмотря на турбулентность в глобальных цепочках поставок, компания Jera Plus вышла на новые рынки сбыта и доказала свою надежность как ответственный поставщик.",
+      "image_url": "/images/news/951a8d3330b64ecea387db034ac75694.jpg",
+      "published_at": "2020-12-30",
+      "is_published": true
+    },
+    {
+      "id": 2,
+      "slug": "flax-seed-supply-expansion",
+      "title_en": "Flax seed supply - a new commodity segment of our company",
+      "title_ru": "Поставки семян льна — новое товарное направление Jera Plus",
+      "excerpt_en": "Expanding into wholesale agricultural commodities with trial supplies of high-grade flax seed to European consumers.",
+      "excerpt_ru": "Выход в аграрный сегмент и первые регулярные партии масличного льна для европейских переработчиков.",
+      "content_en": "We are glad to inform our partners that Jera Plus has expanded its wholesale trading portfolio and initiated trial deliveries of high-oil flax seeds to European consumers, working with direct farm and elevator contracts.",
+      "content_ru": "Мы рады сообщить о расширении спектра торговых операций: начаты поставки высокомасличных семян льна европейским переработчикам напрямую с элеваторов и фермерских хозяйств.",
+      "image_url": "/images/news/b1cd2757743cdd0f1b88f16d35458716.jpeg",
+      "published_at": "2019-11-15",
+      "is_published": true
+    }
+  ],
+  "stats": [
+    {
+      "value": "8+",
+      "label_en": "Years of profitable trading",
+      "label_ru": "Лет прибыльной работы"
+    },
+    {
+      "value": "100%",
+      "label_en": "Contract fulfilment",
+      "label_ru": "Исполнение контрактов"
+    },
+    {
+      "value": "15+",
+      "label_en": "Countries of delivery",
+      "label_ru": "Стран поставок"
+    },
+    {
+      "value": "7",
+      "label_en": "Commodity sectors",
+      "label_ru": "Товарных направлений"
+    }
+  ],
+  "seo": {
+    "title_en": "Jera Plus | International Petroleum & Commodity Trading",
+    "title_ru": "Jera Plus | Международный трейдинг нефтепродуктов и сырья",
+    "description_en": "Jera Plus is a European company supplying LPG, diesel, gasoline, oils, petrochemicals, plastics, flax seed and minerals with end-to-end logistics.",
+    "description_ru": "Jera Plus — европейская компания: поставки СУГ, дизеля, бензина, масел, нефтехимии, пластиков, льна и минералов с полной логистикой."
+  },
+  "vacancies": [
+    {
+      "id": 1,
+      "order_num": 1,
+      "is_active": true,
+      "title_en": "LPG Trader (Wholesale Manager)",
+      "title_ru": "Трейдер СУГ (оптовый менеджер)",
+      "location_en": "Europe / Remote / Podgorica HQ",
+      "location_ru": "Европа / Удаленно / Офис в Подгорице",
+      "resp_en": [
+        "Organizing the entire LPG supply chain from Europe and the CIS to Ukraine and Moldova.",
+        "Negotiating with terminals, gas stations and regional distributors.",
+        "Coordinating deliveries by gas trucks and rail tank cars."
+      ],
+      "resp_ru": [
+        "Организация полной цепочки поставок СУГ из Европы и СНГ в Украину и Молдову.",
+        "Переговоры с терминалами, сетями АЗС и региональными дистрибьюторами.",
+        "Координация отгрузок автогазовозами и ж/д цистернами."
+      ],
+      "req_en": "At least 2 years of experience in LPG trading, stable client contacts and understanding of the regional market.",
+      "req_ru": "Опыт в трейдинге СУГ от 2 лет, стабильные контакты с клиентами и понимание специфики региона."
+    },
+    {
+      "id": 2,
+      "order_num": 2,
+      "is_active": true,
+      "title_en": "Grain / Flax Seeds Trader",
+      "title_ru": "Трейдер зерна / льна",
+      "location_en": "EU Countries / Remote",
+      "location_ru": "Страны ЕС / Удаленно",
+      "resp_en": [
+        "Selling Ukrainian flax and flax products (incl. golden flax) to EU and other markets.",
+        "Working with our long-term farmer and elevator partners.",
+        "Organizing the full supply chain, including processing and packaged product options."
+      ],
+      "resp_ru": [
+        "Продажи украинского льна и продуктов переработки (включая «золотой лён») в ЕС и на другие рынки.",
+        "Работа с нашими долгосрочными партнерами — фермерами и элеваторами.",
+        "Организация полной цепочки поставок, включая переработку и фасованную продукцию."
+      ],
+      "req_en": "At least 2 years of experience in grain/flax trading with stable contacts with potential buyers.",
+      "req_ru": "Опыт в трейдинге зерна/льна от 2 лет и стабильные контакты с потенциальными покупателями."
+    }
+  ]
+}
